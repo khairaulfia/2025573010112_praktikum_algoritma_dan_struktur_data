@@ -1,8 +1,8 @@
 {
-  "name": "praktikum-3",
+  "name": "praktikum-2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "01-variable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
