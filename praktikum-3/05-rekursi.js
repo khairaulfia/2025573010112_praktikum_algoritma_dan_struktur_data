@@ -50,7 +50,7 @@ console.log('\n=== jumlah array dengan rekursi ===');
 console.log('array   :', angka);
 console.log('jumlah  :', jumlaharray(angka));
 
-// --- 4. countdown rekursif ---
+// --- 4. countdown rekursif ----git
 function countdown(n) {
     if (n < 0) {
         console.log('selesai!');
