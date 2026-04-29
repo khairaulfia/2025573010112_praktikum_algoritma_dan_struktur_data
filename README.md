@@ -1,1 +1,2 @@
 # 2025573010112_praktikum_algoritma_dan_struktur_data
+blabla
